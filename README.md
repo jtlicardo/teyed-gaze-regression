@@ -5,8 +5,8 @@ A lightweight, high-accuracy deep learning model for 2D near-eye gaze estimation
 ## Demo predictions
 
 <div align="center">
-  <img src="assets/prediction.gif" alt="Gaze prediction demo 1" width="600"/>
-  <img src="assets/prediction_2.gif" alt="Gaze prediction demo 2" width="600"/>
+  <img src="assets/prediction.gif" alt="Gaze prediction demo 1" width="350"/>
+  <img src="assets/prediction_2.gif" alt="Gaze prediction demo 2" width="350"/>
 </div>
 
 ## Quickstart
