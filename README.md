@@ -1,6 +1,6 @@
 # TEyeD Gaze Regression
 
-A lightweight, high-accuracy deep learning model for 2D near-eye gaze estimation trained on the [TEyeD](https://arxiv.org/abs/2102.02115) dataset.
+A lightweight, high-accuracy deep learning model for 2D near-eye gaze estimation trained on the Dikablis subset of the [TEyeD](https://arxiv.org/abs/2102.02115) dataset.
 
 ## Demo predictions
 
@@ -80,7 +80,7 @@ The model maintains high accuracy across different gaze angles, with slightly hi
 
 ## Dataset
 
-Training on TEyeD (Dikablis) preprocessed dataset:
+Trained on the Dikablis subset of TEyeD (high-resolution head-mounted eye tracker):
 - **Training samples**: 400,131
 - **Image size**: 96x96 pixels
 - **Preprocessing**: Stride-10 sampling with Q4 quality
