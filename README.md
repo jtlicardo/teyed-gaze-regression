@@ -4,10 +4,12 @@ A lightweight, high-accuracy deep learning model for 2D near-eye gaze estimation
 
 ## Demo predictions
 
-<div align="center">
+<div align="center" style="margin-bottom: 16px;">
   <img src="assets/prediction.gif" alt="Gaze prediction demo 1" width="350"/>
   <img src="assets/prediction_2.gif" alt="Gaze prediction demo 2" width="350"/>
 </div>
+
+
 
 **Note:** These demos were recorded with a handheld smartphone, not the fixed head-mounted eye tracker used in the training data.
 
