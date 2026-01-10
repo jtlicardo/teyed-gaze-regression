@@ -9,6 +9,8 @@ A lightweight, high-accuracy deep learning model for 2D near-eye gaze estimation
   <img src="assets/prediction_2.gif" alt="Gaze prediction demo 2" width="350"/>
 </div>
 
+**Note:** These demos were recorded with a handheld smartphone, not the fixed head-mounted eye tracker used in the training data.
+
 ## Quickstart
 
 1. Install [uv](https://github.com/astral-sh/uv)
